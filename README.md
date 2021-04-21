@@ -27,10 +27,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 </a>
 <a href="https://cloud.mongodb.com/">
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.discordapp.com/attachments/712695615435309126/834483338605494322/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c.png" />
 </a>
 <a href="https://git-scm.com/">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://media.discordapp.net/attachments/712695615435309126/834483952491823104/kisspng-git-repository-merge-commit-computer-file-git-blamer-visual-studio-marketplace-5c522814af3fb.png?width=559&height=559" />
 </a>
 
 
