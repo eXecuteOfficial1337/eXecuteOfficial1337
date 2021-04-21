@@ -6,7 +6,7 @@
 
 ### Connect with me:
 <a href="https://discord.gg/raxbKHt">
-<img align="left" alt="Discord" width="22px" src="https://www.vhv.rs/dpng/d/445-4459297_discord-logo-computer-icons-reddit-transparent-background-discord.png" />
+<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/712695615435309126/834480412779741184/NicePng_discord-png_175360.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC-VWGLWyjXf-WI-37g2UiMA">
 <img align="left" alt="YouTube" width="22px" src="https://cdn.discordapp.com/attachments/712695615435309126/834480114397478944/youtube-logo-png-46031.png" />
