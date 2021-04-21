@@ -40,7 +40,7 @@
 
 
 <a href="https://top.gg/bot/583392122267500595">
-<img align="left" alt="ExtraFM" width="26px" style="border-radius:50% src="https://cdn.discordapp.com/avatars/583392122267500595/0fcfd2af951b0879c11d3f9518b8a6f3.png"/>
+<img align="left" alt="ExtraFM" width="26px" src="https://cdn.discordapp.com/avatars/583392122267500595/0fcfd2af951b0879c11d3f9518b8a6f3.png" style="border-radius:50%>
      </a>
 
 <br />
