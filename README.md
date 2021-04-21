@@ -42,6 +42,15 @@
 <a href="https://top.gg/bot/583392122267500595">
 <img align="left" alt="ExtraFM" width="26px" src="https://cdn.discordapp.com/avatars/583392122267500595/0fcfd2af951b0879c11d3f9518b8a6f3.png">
      </a>
+     <a href="https://top.gg/bot/707225574405570642">
+<img align="left" alt="Otvoreni" width="26px" src="https://images.discordapp.net/avatars/707225574405570642/6efa63d0b64bec38e33f29f40ef85cad.png">
+     </a>
+     <a href="https://top.gg/bot/747914537080193025">
+<img align="left" alt="Narodni" width="26px" src="https://images.discordapp.net/avatars/747914537080193025/8feb9b025edefe2469e183e2d5655bc4.png">
+     </a>
+     <a href="https://top.gg/bot/584765771301912587">
+<img align="left" alt="RadioS" width="26px" src="https://images.discordapp.net/avatars/584765771301912587/1dc4c69180b56bb21062ad1bf1997b13.png">
+     </a>
 
 
 <br />
