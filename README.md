@@ -5,11 +5,14 @@
 - 🔧 ︲ I’m currently working on [Scope 3.0](https://discord.gg/rm5xTwWKRq)
 
 ### Connect with me:
-<a href="https://example.url.com">
-<img align="left" alt="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://discord.gg/raxbKHt">
+<img align="left" alt="Discord" width="22px" src="https://www.vhv.rs/dpng/d/445-4459297_discord-logo-computer-icons-reddit-transparent-background-discord.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC-VWGLWyjXf-WI-37g2UiMA">
-<img align="left" alt="Nezrex | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="YouTube" width="22px" src="https://i.pinimg.com/474x/d4/48/2b/d4482ba4e7ebdbff7b8ba73e7d39aceb.jpg" />
+</a>
+<a href="https://trovo.live/ModernHD_">
+<img align="left" alt="Trovo" width="22px" src="https://static.trovo.live/cat/img/icon_512.4f5f85.png" />
 </a>
 <br />
 
