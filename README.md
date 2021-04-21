@@ -9,7 +9,7 @@
 <img align="left" alt="Discord" width="22px" src="https://www.vhv.rs/dpng/d/445-4459297_discord-logo-computer-icons-reddit-transparent-background-discord.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC-VWGLWyjXf-WI-37g2UiMA">
-<img align="left" alt="YouTube" width="22px" src="https://i.pinimg.com/474x/d4/48/2b/d4482ba4e7ebdbff7b8ba73e7d39aceb.jpg" />
+<img align="left" alt="YouTube" width="22px" src="https://cdn.discordapp.com/attachments/712695615435309126/834480114397478944/youtube-logo-png-46031.png" />
 </a>
 <a href="https://trovo.live/ModernHD_">
 <img align="left" alt="Trovo" width="22px" src="https://static.trovo.live/cat/img/icon_512.4f5f85.png" />
