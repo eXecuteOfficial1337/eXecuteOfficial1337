@@ -40,11 +40,9 @@
 
 
 <a href="https://top.gg/bot/583392122267500595">
-<img align="left" alt="ExtraFM" width="26px" src="https://images-ext-2.discordapp.net/external/0TNoUPjebEyIPPgxU5P-kkOvSrmxyeFj0MkVFrznK1s/%3Fsize%3D256/https/cdn.discordapp.com/avatars/583392122267500595/0fcfd2af951b0879c11d3f9518b8a6f3.png" border-radius: 50%;>
+<img align="left" alt="ExtraFM" width="26px" src="https://images-ext-2.discordapp.net/external/0TNoUPjebEyIPPgxU5P-kkOvSrmxyeFj0MkVFrznK1s/%3Fsize%3D256/https/cdn.discordapp.com/avatars/583392122267500595/0fcfd2af951b0879c11d3f9518b8a6f3.png" style="border-radius:50%">
      </a>
- img {
-  border-radius: 50%;
-}
+
 
 <br />
 
