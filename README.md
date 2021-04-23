@@ -27,10 +27,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 </a>
 <a href="https://cloud.mongodb.com/">
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.discordapp.com/attachments/712695615435309126/834490828750979072/mongodb_logo_icon_170943.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://imgur.com/jaQpBW8.png" />
 </a>
 <a href="https://git-scm.com/">
-<img align="left" alt="Git" width="26px" src="https://cdn.discordapp.com/attachments/712695615435309126/834484342595387422/git.png" />
+<img align="left" alt="Git" width="26px" src="https://imgur.com/iwFVpfg.png" />
 </a>
 
 
