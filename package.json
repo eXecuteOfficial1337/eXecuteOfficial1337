@@ -1,0 +1,19 @@
+{
+  "name": "vanex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Vanex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eXecuteDevlopment/Vanex.git"
+  },
+  "author": "eXecuteDevelopment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eXecuteDevlopment/Vanex/issues"
+  },
+  "homepage": "https://github.com/eXecuteDevlopment/Vanex#readme"
+}

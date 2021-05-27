@@ -1,0 +1,20 @@
+{
+	"kategorije": ["owner", "economy", "fun", "user", "setup", "giveaway"],
+	"kategorijeEmoji": {
+		"economy": "\\🤑",
+		"fun": "\\😂",
+		"owner": "\\👑",
+		"user": "\\👤",
+		"setup": "\\🛠️",
+		"giveaway": "\\🎁"
+	},
+	"colors": {
+		"main": "",
+		"no": "",
+		"yes": ""
+	},
+	"emojis": {
+		"no": "",
+		"yes": ""
+	}
+}
