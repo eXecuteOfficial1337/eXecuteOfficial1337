@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm eXecuteOfficial1337</h1>
 
-- 🔍 ︲ You can reach me on Discord: eXecute Official#6038 || ModernHD_#9767
+- 🔍 ︲ You can reach me on Discord: eXecute Official#9999 || ModernHD_#2499
 - 💻 ︲ I’m currently learning [JavaScript](https://www.javascript.com/)
-- 🔧 ︲ I’m currently working on [Scope 3.0](https://discord.gg/rm5xTwWKRq)
+- 🔧 ︲ I’m currently working on [eXecute Development](https://discord.gg/rwnRKZMFGj)
 
 ### Connect with me:
 <a href="https://discord.gg/raxbKHt">
