@@ -46,7 +46,7 @@
 <img align="left" alt="Otvoreni" width="26px" src="https://images.discordapp.net/avatars/707225574405570642/6efa63d0b64bec38e33f29f40ef85cad.png">
      </a>
      <a href="https://top.gg/bot/747914537080193025">
-<img align="left" alt="Narodni" width="26px" src="https://cdn.discordapp.com/avatars/707225574405570642/6efa63d0b64bec38e33f29f40ef85cad.png?size=1024">
+<img align="left" alt="Narodni" width="26px" src="https://narodni.hr/wp-content/uploads/2021/10/narodni-white222.png">
      </a>
      <a href="https://top.gg/bot/584765771301912587">
 <img align="left" alt="RadioS" width="26px" src="https://images.discordapp.net/avatars/584765771301912587/1dc4c69180b56bb21062ad1bf1997b13.png">
