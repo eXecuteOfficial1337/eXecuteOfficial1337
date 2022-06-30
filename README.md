@@ -51,6 +51,10 @@
      <a href="https://top.gg/bot/584765771301912587">
 <img align="left" alt="RadioS" width="26px" src="https://images.discordapp.net/avatars/584765771301912587/1dc4c69180b56bb21062ad1bf1997b13.png">
      </a>
+     
+     <a href="https://top.gg/bot/918878224405131314">
+<img align="left" alt="RadioS" width="26px" src="https://cdn.discordapp.com/avatars/918878224405131314/c484bcf0df665aa2a55dbf3c56d4ecc1.png">
+     </a>
 
 
 <br />
